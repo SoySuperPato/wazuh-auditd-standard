@@ -1,11 +1,3 @@
-¡Excelente referencia! Me queda clarísimo el estilo profesional y estructurado que buscas.
-
-Basándome en el formato de tu README anterior (con emojis, tabla de contenidos y explicación técnica detallada), he creado el `README.md` perfecto para tu repositorio `wazuh-auditd-standard`.
-
-Copia y pega el siguiente contenido en tu archivo `README.md` en GitHub:
-
----
-
 # Wazuh Auditd Standardizer | Estandarización de Auditoría Linux
 
 Script de Bash para desplegar automáticamente una configuración de auditoría (`auditd`) limpia, optimizada y alineada con estándares de seguridad (PCI-DSS / CIS) para su ingesta en Wazuh SOC.
