@@ -100,7 +100,7 @@ Ejemplo de salida correcta:
 ## ✒️ Contribuciones y Autor
 
 **Desarrollado por:** Carlos Valenzuela
-**Rol:** Delegado de Ciberseguridad / Ingeniero SecOps
+**Rol:** Ingeniero de Ciberseguridad 
 **Licencia:** Uso interno corporativo.
 
 ---
